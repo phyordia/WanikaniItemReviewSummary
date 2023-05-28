@@ -1,0 +1,3 @@
+# WanikaniItemReviewSummary
+a user script that shows a quick summary (meaning, reading, part-of-speech) info next to the kanji after the user’s submission. This avoids clicking on the “item info” button, scrolling, expanding sections, etc…
+
